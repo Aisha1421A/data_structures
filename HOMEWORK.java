@@ -1,10 +1,7 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
-/*عائشه راشد الزهراني 442018886
-فيء واصف فلمبان     439010635
-شعبة 1 
+ */عائشه الزهراني 
 */
 package homework;
 
